@@ -1,0 +1,4 @@
+bites(s)
+likes(s)
+bite(p)
+like(p)

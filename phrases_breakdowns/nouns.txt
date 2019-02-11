@@ -1,0 +1,5 @@
+man(s)
+men(p)
+woman(s)
+women(p)
+dog
